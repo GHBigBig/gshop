@@ -20,6 +20,6 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-Creating a new branch is quick. 联系分支
+Creating a new branch is quick. 
 Creating a new branch is quick & simple.
 Creating a new branch is dev.
