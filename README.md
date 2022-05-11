@@ -22,3 +22,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 Creating a new branch is quick. 联系分支
 Creating a new branch is quick & simple.
+Creating a new branch is dev.
